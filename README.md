@@ -405,39 +405,23 @@ I'm working toward becoming an **AI / GenAI Engineer** capable of designing, bui
 **Programming → ML Fundamentals → GenAI → RAG → AI Agents → AI Engineering**
 
 ---
-
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishal-s-sollapure&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-s-sollapure&layout=compact&theme=transparent&hide_border=true&langs_count=8" height="180"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
+# 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vishal-s-sollapure&theme=transparent&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=vishal-s-sollapure&theme=transparent&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
-
----
-
-# 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishal-s-sollapure&theme=github-compact&hide_border=true&area=true" width="95%"/>
+  <a href="https://github.com/vishal-s-sollapure">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=vishal-s-sollapure&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
+      alt="GitHub Statistics"
+    />
+  </a>
 </p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishal-s-sollapure&theme=flat&no-frame=true&no-bg=true&margin-w=5&column=7" width="95%"/>
-</p>
-
----
 
 # 📫 Connect With Me
 
