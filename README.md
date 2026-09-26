@@ -1,151 +1,195 @@
 # 👋 Hi, I'm Vishal S Sollapure
 
-### 🎓 B.E. CSE (AI & ML) Student | 🤖 AI / GenAI Developer | 💻 Developer
-
-I’m an engineering student focused on **Artificial Intelligence, Generative AI, RAG systems, Computer Vision, and AI-powered applications**.
-
-I enjoy turning ideas into working products, building hackathon projects, experimenting with modern AI tools, and continuously strengthening my software development fundamentals.
-
-🎯 **Current Goal:** Build practical AI/GenAI systems and grow toward an **AI Engineer / GenAI Developer** role.
-
----
-
-## 🚀 What I’m Currently Working On
-
-- 🤖 Generative AI and LLM-powered applications
-- 🔎 Retrieval-Augmented Generation (RAG)
-- 🧠 AI assistants and document question-answering systems
-- 👁️ Computer Vision and real-time gesture recognition
-- 🛠️ Full-stack interfaces for AI applications
-- 🧪 Hackathon and real-world problem-solving projects
-- 📚 Strengthening Python, Machine Learning, SQL and software engineering fundamentals
-
----
-
-# 🧠 AI & GenAI Stack
+### 🎓 B.E. CSE (AI & ML) Student | 🤖 AI / GenAI Developer | 💻 Software Developer
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://komarev.com/ghpvc/?username=vishal-s-sollapure&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
-### Artificial Intelligence
-- Generative AI
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Prompt Engineering
-- AI Assistants & Chatbots
-- Structured AI Outputs
-- Document Q&A
-- Multilingual AI applications
+I'm an engineering student passionate about **Artificial Intelligence, Generative AI, Computer Vision, RAG systems, and AI-powered applications**.
 
-### AI APIs & Frameworks
-- Google Gemini API
-- OpenAI APIs
-- OpenAI Whisper
-- Pydantic
-- Streamlit
+I enjoy building practical projects, experimenting with emerging technologies, participating in hackathons, and turning real-world problems into working software.
+
+🎯 **Currently focused on:** AI Engineering • Generative AI • RAG • Computer Vision • Full-Stack AI Applications
+
+---
+
+# 🤖 AI & Generative AI
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="50" />
+</p>
+
+### 🧠 AI / GenAI
+
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge\&logo=google-gemini\&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-8E75B2?style=for-the-badge\&logo=google-gemini\&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-FF6F00?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6C47FF?style=for-the-badge)
+
+### 🔥 AI Technologies
+
+* 🧠 Large Language Models (LLMs)
+* 🤖 Generative AI
+* 🔎 Retrieval-Augmented Generation (RAG)
+* ✍️ Prompt Engineering
+* 💬 AI Chatbots & Assistants
+* 📄 Document Q&A
+* 🌍 Multilingual AI
+* 📊 Structured AI Outputs
+* 🧩 AI-powered Applications
+* 🤝 Exploring Agentic AI
+
+### 🔌 AI APIs & Frameworks
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+</p>
 
 ---
 
 # 👁️ Computer Vision
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,opencv" />
+  <img src="https://skillicons.dev/icons?i=python,opencv" height="50" />
 </p>
 
-- OpenCV
-- MediaPipe
-- Hand Landmark Detection
-- Real-time Gesture Recognition
-- Computer Vision pipelines
-- Feature extraction & normalization
-- Rule-based and ML-based gesture classification
-- Random Forest classification
-- PyAutoGUI computer interaction
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge\&logo=google\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+
+### Computer Vision Skills
+
+* 🖐️ Hand Landmark Detection
+* 👋 Gesture Recognition
+* 🎥 Real-time Video Processing
+* 📐 Feature Extraction
+* 📊 Landmark Normalization
+* 🤖 Machine Learning Classification
+* 🌲 Random Forest
+* 🖱️ Gesture-based Computer Interaction
+* ⚡ Real-time Performance Evaluation
 
 ---
 
 # 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript" height="55" />
 </p>
 
-- **Python** — AI applications, automation, computer vision and problem solving
-- **Java** — OOP and programming fundamentals
-- **JavaScript** — Web development and interactive applications
+| Language          | Usage                                        |
+| ----------------- | -------------------------------------------- |
+| 🐍 **Python**     | AI, GenAI, Computer Vision, automation       |
+| ☕ **Java**        | OOP and programming fundamentals             |
+| 🟨 **JavaScript** | Web development and interactive applications |
 
 ---
 
-# 🌐 Web Development
+# 🌐 Frontend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" height="55" />
 </p>
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React.js
-- Tailwind CSS
-- Vite
-- Responsive Web Design
-- SPA architecture
-- DOM manipulation
-- LocalStorage
+### Technologies
 
-### UI / Frontend Libraries
-- Framer Motion
-- Lucide Icons
+* HTML5
+* CSS3
+* JavaScript ES6+
+* React.js
+* Tailwind CSS
+* Vite
+* Responsive Web Design
+* SPA Architecture
+* DOM Manipulation
+* LocalStorage
+
+### UI / Animation
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" height="45" />
+</p>
+
+* Framer Motion
+* Lucide Icons
+* Responsive UI
+* Component-based UI
 
 ---
 
-# ⚙️ Backend & APIs
+# ⚙️ Backend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" height="55" />
 </p>
 
-- Node.js
-- Express.js
-- FastAPI
-- REST APIs
-- File Upload & Processing
-- API integration
-- Authentication & session management
+### Technologies
+
+* Node.js
+* Express.js
+* FastAPI
+* REST APIs
+* API Integration
+* Authentication
+* Session Management
+* File Upload & Processing
+* Backend Services
 
 ---
 
 # 🗄️ Databases & Data
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="55" />
 </p>
 
-- MongoDB
-- LocalStorage
-- Structured JSON data
-- Pydantic data models
-- Data preprocessing
-- Basic data handling
+### Technologies
+
+* MongoDB
+* MySQL / SQL
+* LocalStorage
+* JSON
+* Pydantic Models
+* Data Preprocessing
+* Structured Data Handling
 
 ---
 
-# 🛠️ Tools & Platforms
+# 🛠️ Developer Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,githubactions" height="55" />
 </p>
 
-- Git
-- GitHub
-- GitHub Actions
-- VS Code
-- Vercel
-- Render
-- Streamlit
-- npm
+* Git
+* GitHub
+* GitHub Actions
+* VS Code
+* npm
+* REST API Development
+* Version Control
+* CI / Testing
+
+---
+
+# ☁️ Deployment & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel,render" height="55" />
+</p>
+
+* Vercel
+* Render
+* Streamlit Cloud
+* GitHub
+* Web Deployment
+* API Deployment
 
 ---
 
@@ -153,130 +197,184 @@ I enjoy turning ideas into working products, building hackathon projects, experi
 
 ## 🤖 AdiBot — AI Assistant for Aditya College
 
-A multilingual **RAG-based AI assistant** that answers student questions using college documents and Google Gemini.
+> Multilingual RAG-based AI assistant for answering questions from college documents.
 
-**Highlights**
-- 📄 PDF upload and processing
-- 🔎 RAG-based document retrieval
-- 🤖 Gemini-powered responses
-- 🌍 8-language support
-- 🔍 OCR for scanned PDFs
-- 🎤 Voice input & 🔊 voice output
-- 📚 Source display and confidence indicators
-- 👨‍💼 Admin dashboard and document management
-- ⚡ Streaming AI responses
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express" height="40" />
+  <img src="https://img.shields.io/badge/Gemini%20AI-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge" />
+</p>
 
-**Tech:** JavaScript • Node.js • Express.js • Google Gemini • RAG • PDF Processing • Tesseract.js
+### Features
 
-🔗 [Repository](https://github.com/vishal-s-sollapure/adibot)  
-🌐 [Live Demo](https://adibot-three.vercel.app/)
+* 📄 PDF upload & processing
+* 🔎 RAG document retrieval
+* 🤖 Gemini-powered answers
+* 🌍 8-language support
+* 🔍 OCR for scanned PDFs
+* 🎤 Voice input
+* 🔊 Voice output
+* 📚 Source display
+* 📊 Confidence indicators
+* 👨‍💼 Admin dashboard
+* ⚡ Streaming AI responses
+* 💬 AI-generated FAQs
+
+🔗 **Repository:**
+https://github.com/vishal-s-sollapure/adibot
+
+🌐 **Live Demo:**
+https://adibot-three.vercel.app/
 
 ---
 
 ## 🌊 FloodGuard AI — Flood Risk & Emergency Response
 
-A full-stack AI-powered platform for **hyper-local flood risk analysis, evacuation intelligence and disaster response**.
+> AI-powered platform for hyper-local flood risk analysis, evacuation intelligence and disaster response.
 
-**Highlights**
-- 🌧️ Explainable flood risk scoring
-- 📈 Risk trends and predictive projections
-- 🗺️ Interactive maps and safe-route intelligence
-- 🚨 SOS and rescue prioritization
-- 👁️ Gemini Vision hazard analysis
-- 🌍 English, Kannada and Hindi support
-- 👥 Citizen and disaster-response workflows
-- 🔐 JWT authentication & role-based access
-- 🧪 Automated backend testing
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,vite,tailwind,mongodb" height="40" />
+  <img src="https://img.shields.io/badge/Gemini%20AI-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" />
+</p>
 
-**Tech:** Python • FastAPI • React • Vite • Tailwind CSS • MongoDB • Google Gemini • Leaflet.js • JWT • Pytest
+### Features
 
-🔗 [Repository](https://github.com/vishal-s-sollapure/floodguard-ai)  
-🌐 [Live Demo](https://floodguard-ai-seven.vercel.app/)
+* 🌧️ Explainable flood risk scoring
+* 📈 Risk trends & predictive projections
+* 🗺️ Interactive maps
+* 🧭 Safe evacuation routes
+* 🚨 SOS rescue prioritization
+* 👁️ Gemini Vision hazard analysis
+* 🌍 English, Kannada & Hindi
+* 🔐 JWT authentication
+* 👥 Role-based access
+* 🧪 Automated testing
+* 🏠 Shelter information
+* 📊 Disaster analytics
+
+🔗 **Repository:**
+https://github.com/vishal-s-sollapure/floodguard-ai
+
+🌐 **Live Demo:**
+https://floodguard-ai-seven.vercel.app/
 
 ---
 
 ## 👋 GestureControl AI — Touchless Computer Interaction
 
-A real-time **Computer Vision + Human-Computer Interaction** system that converts hand gestures into computer controls.
+> Real-time Computer Vision system that converts hand gestures into computer controls.
 
-**Highlights**
-- 🖐️ MediaPipe 21-point hand landmark tracking
-- 📐 Scale-invariant gesture features
-- 🤖 Rule-based + ML recognition engine
-- 🖱️ Mouse movement and clicks
-- 🎵 Media controls
-- 📊 Runtime performance metrics
-- 🧪 Gesture evaluation and benchmarking
-- 🛡️ Emergency stop and safety controls
-- 🎛️ Desktop, Media and Presentation profiles
-- 🌲 Random Forest ML pipeline
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,opencv" height="45" />
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
 
-**Tech:** Python • OpenCV • MediaPipe • PyAutoGUI • Scikit-learn • Random Forest
+### Features
 
-🔗 [Repository](https://github.com/vishal-s-sollapure/Gesture-control-main)
+* 🖐️ 21-point hand landmark tracking
+* 📐 Scale-invariant gesture features
+* 🤖 Rule-based + ML recognition
+* 🖱️ Mouse control
+* 🎵 Media control
+* 📊 Runtime performance metrics
+* 🧪 Gesture benchmarking
+* 🛡️ Emergency stop
+* 🎛️ Desktop / Media / Presentation profiles
+* 🌲 Random Forest ML pipeline
+
+🔗 **Repository:**
+https://github.com/vishal-s-sollapure/Gesture-control-main
 
 ---
 
 ## 🎙️ Voice Notes → Action Items
 
-An AI application that converts spoken notes and meeting recordings into **structured, actionable tasks**.
+> AI application that converts spoken notes and meeting recordings into structured actionable tasks.
 
-**Highlights**
-- 🎤 Audio recording and file upload
-- 📝 Speech-to-text transcription
-- 🧠 LLM-based task extraction
-- 👤 Task owner identification
-- ⭐ Priority extraction
-- 📅 Due-date extraction
-- 🎴 Structured task-card interface
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="45" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
-**Tech:** Python • Streamlit • OpenAI Whisper • OpenAI GPT • Pydantic
+### Features
 
-🔗 [Repository](https://github.com/vishal-s-sollapure/Voice-Notes-to-Action-Item)
+* 🎤 Audio recording & upload
+* 📝 Speech-to-text
+* 🧠 LLM task extraction
+* 👤 Owner identification
+* ⭐ Priority extraction
+* 📅 Due-date extraction
+* 🎴 Structured task cards
+
+🔗 **Repository:**
+https://github.com/vishal-s-sollapure/Voice-Notes-to-Action-Item
 
 ---
 
-## 🛍️ StyleSphere — Fashion E-Commerce Web App
+## 🛍️ StyleSphere — Fashion E-Commerce SPA
 
-A responsive **fashion e-commerce SPA** built independently as part of a web development internship.
+> Responsive fashion e-commerce web application built independently during a web development internship.
 
-**Highlights**
-- 🛒 Shopping cart and wishlist
-- 🔎 Product search and filtering
-- 💰 Price and category filters
-- 📦 Product detail pages
-- 💳 Multi-step checkout UI
-- 💾 Persistent cart state with LocalStorage
-- 📱 Responsive mobile-first design
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js" height="45" />
+</p>
 
-**Tech:** HTML5 • CSS3 • JavaScript (ES6+) • LocalStorage
+### Features
 
-🔗 [Repository](https://github.com/vishal-s-sollapure/StyleSphere)  
-🌐 [Live Demo](https://style-sphere-psi.vercel.app/)
+* 🛒 Shopping cart
+* ❤️ Wishlist
+* 🔎 Product filtering
+* 💰 Price filtering
+* 📦 Product details
+* 💳 Multi-step checkout
+* 💾 LocalStorage persistence
+* 📱 Responsive design
+* 🎟️ Promo code system
+
+🔗 **Repository:**
+https://github.com/vishal-s-sollapure/StyleSphere
+
+🌐 **Live Demo:**
+https://style-sphere-psi.vercel.app/
 
 ---
 
 ## ⚡ Personal Portfolio — Interactive AI Portfolio
 
-A modern React-based portfolio website with an integrated **Gemini-powered AI assistant**.
+> Modern React portfolio with an integrated Gemini-powered AI assistant.
 
-**Highlights**
-- ⚛️ React-based architecture
-- 🎨 Tailwind CSS UI
-- 🤖 Interactive AI assistant
-- 📊 Skills and project showcase
-- 📱 Responsive design
-- ✨ Framer Motion animations
-- 🚀 Vite + Vercel deployment
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,js" height="45" />
+  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" />
+</p>
 
-**Tech:** React • JavaScript • Tailwind CSS • Vite • Gemini API • Framer Motion
+### Features
 
-🔗 [Repository](https://github.com/vishal-s-sollapure/Personal-Portfolio)  
-🌐 [Live Portfolio](https://personal-portfolio-taupe-ten.vercel.app/)
+* ⚛️ React architecture
+* 🎨 Tailwind CSS
+* 🤖 Gemini AI assistant
+* 📊 Skills & project showcase
+* 📱 Responsive UI
+* ✨ Framer Motion
+* 🚀 Vite
+* ☁️ Vercel deployment
+
+🔗 **Repository:**
+https://github.com/vishal-s-sollapure/Personal-Portfolio
+
+🌐 **Live Portfolio:**
+https://personal-portfolio-taupe-ten.vercel.app/
 
 ---
 
 # 📚 Currently Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,cpp" height="50" />
+</p>
 
 ```text
 Python & Problem Solving
@@ -295,6 +393,16 @@ AI Agents / Agentic AI
         ↓
 Production AI Applications
 ```
+
+---
+
+# 🎯 Career Focus
+
+I'm working toward becoming an **AI / GenAI Engineer** capable of designing, building and deploying practical AI-powered products.
+
+### My Current Direction
+
+**Programming → ML Fundamentals → GenAI → RAG → AI Agents → AI Engineering**
 
 ---
 
@@ -331,32 +439,35 @@ Production AI Applications
 
 ---
 
-# 🎯 Career Focus
-
-I’m working toward becoming an **AI / GenAI Engineer** who can design, build and deploy practical AI-powered products.
-
-### My current focus
-
-**Programming → ML Fundamentals → GenAI → RAG → AI Agents → AI Engineering**
-
----
-
 # 📫 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/vishal-s-sollapure">
-    <img src="https://skillicons.dev/icons?i=github" width="45"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/vishal-s-sollapure-0bb4b2384">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-  </a>
+
+<a href="https://github.com/vishal-s-sollapure">
+  <img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vishal-s-sollapure-0bb4b2384">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+
+<a href="mailto:vishalssollapure@gmail.com">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" width="50"/>
+</a>
+
 </p>
 
-- 💼 **LinkedIn:** [Vishal S Sollapure](https://www.linkedin.com/in/vishal-s-sollapure-0bb4b2384)
-- 🐙 **GitHub:** [vishal-s-sollapure](https://github.com/vishal-s-sollapure)
-- 📧 **Email:** [vishalssollapure@gmail.com](mailto:vishalssollapure@gmail.com)
-- 🌐 **Portfolio:** [personal-portfolio-taupe-ten.vercel.app](https://personal-portfolio-taupe-ten.vercel.app/)
+* 💼 **LinkedIn:**
+  https://www.linkedin.com/in/vishal-s-sollapure-0bb4b2384
+
+* 🐙 **GitHub:**
+  https://github.com/vishal-s-sollapure
+
+* 📧 **Email:**
+  [vishalssollapure@gmail.com](mailto:vishalssollapure@gmail.com)
+
+* 🌐 **Portfolio:**
+  https://personal-portfolio-taupe-ten.vercel.app/
 
 ---
 
