@@ -414,15 +414,6 @@ I'm working toward becoming an **AI / GenAI Engineer** capable of designing, bui
   />
 </p>
 
-<p align="center">
-  <a href="https://github.com/vishal-s-sollapure">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=vishal-s-sollapure&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
-      alt="GitHub Statistics"
-    />
-  </a>
-</p>
-
 # 📫 Connect With Me
 
 <p align="left">
