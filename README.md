@@ -5,13 +5,11 @@
 Passionate about building AI-powered applications using Generative AI, Computer Vision, RAG, and Full-Stack technologies.
 
 ---
-
 ## 🔥 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vishal-s-sollapure&theme=dark&hide_border=true&ring=A970FF&fire=A970FF&currStreakLabel=A970FF&sideLabels=FFFFFF&dates=AAAAAA" width="100%" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=vishal-s-sollapure&theme=dark&hide_border=true&ring=A970FF&fire=A970FF&currStreakLabel=A970FF&sideLabels=FFFFFF&dates=AAAAAA" width="70%" alt="GitHub Streak Stats"/>
 </p>
-
 ---
 
 ## 🛠️ Tech Stack
