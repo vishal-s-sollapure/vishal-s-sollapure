@@ -1,67 +1,86 @@
 # 👋 Hi, I'm Vishal S Sollapure
 
-**B.E. CSE (AI & ML) Student | AI / GenAI Developer | Software Developer**
+### 🎓 B.E. CSE (AI & ML) | 🤖 AI / GenAI Developer | 💻 Software Developer
 
-I'm passionate about building practical AI-powered applications using Generative AI, Computer Vision, RAG, and Full-Stack technologies.
+Passionate about building AI-powered applications using Generative AI, Computer Vision, RAG, and Full-Stack technologies.
 
-## 📊 GitHub Stats
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishal-s-sollapure&show_icons=true&theme=transparent&hide_border=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=vishal-s-sollapure&theme=transparent&hide_border=true" height="160"/>
-</p>
+## 🔥 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-s-sollapure&layout=compact&theme=transparent&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=vishal-s-sollapure&theme=dark&hide_border=true&ring=A970FF&fire=A970FF&currStreakLabel=A970FF&sideLabels=FFFFFF&dates=AAAAAA" width="100%" alt="GitHub Streak Stats"/>
 </p>
 
-## 🚀 Tech Stack
+---
 
-**Languages:** Python, Java, JavaScript
+## 🛠️ Tech Stack
 
-**AI & GenAI:** Generative AI, LLMs, RAG, Gemini, OpenAI, Prompt Engineering
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,tailwind,nodejs,express,fastapi,mongodb,mysql,opencv,git,github,vscode&perline=8" />
+</p>
 
-**Computer Vision:** OpenCV, MediaPipe, Scikit-learn
+### 🤖 AI & Generative AI
 
-**Frontend:** HTML, CSS, React, Tailwind CSS
+<p align="center">
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-4285F4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
 
-**Backend:** Node.js, Express.js, FastAPI
+### ☁️ Deployment & Developer Tools
 
-**Database:** MongoDB, MySQL
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,render,streamlit,githubactions,postman&perline=6"/>
+</p>
 
-**Tools:** Git, GitHub, VS Code, Vercel, Render, Streamlit
-
-## 💡 Featured Projects
-
-| Project | Description |
-|---|---|
-| 🤖 [AdiBot](https://github.com/vishal-s-sollapure/adibot) | Multilingual RAG-based college AI assistant |
-| 🌊 [FloodGuard AI](https://github.com/vishal-s-sollapure/floodguard-ai) | AI-powered flood risk and emergency response |
-| 👋 [GestureControl AI](https://github.com/vishal-s-sollapure/Gesture-control-main) | Real-time hand gesture computer control |
-| 🎙️ [Voice Notes](https://github.com/vishal-s-sollapure/Voice-Notes-to-Action-Item) | Converts voice recordings into actionable tasks |
-| 🌾 [AgriConnect](https://github.com/vishal-s-sollapure/AgriConnect) | Platform connecting farmers with agricultural workers |
+---
 
 ## 📚 Currently Learning
 
 - Data Structures & Algorithms
-- Python & Machine Learning
+- Machine Learning
 - SQL & Database Management
 - Generative AI & RAG
-- AI Agents
+- AI Agents / Agentic AI
+
+---
 
 ## 🎯 Career Goal
 
-Aspiring **AI / GenAI Engineer**, focused on building and deploying impactful real-world applications.
+Aspiring **AI / GenAI Engineer**, focused on building, deploying, and scaling impactful real-world applications.
+
+---
 
 ## 🤝 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/vishal-s-sollapure-0bb4b2384)
-- 🐙 [GitHub](https://github.com/vishal-s-sollapure)
-- 📧 [Email](mailto:vishalssollapure@gmail.com)
-- 🌐 [Portfolio](https://personal-portfolio-taupe-ten.vercel.app/)
+<p align="center">
+  <a href="https://github.com/vishal-s-sollapure">
+    <img src="https://skillicons.dev/icons?i=github" width="45"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/vishal-s-sollapure-0bb4b2384">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+  </a>
+  &nbsp;
+  <a href="mailto:vishalssollapure@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/vishal-s-sollapure">GitHub</a> •
+  <a href="https://www.linkedin.com/in/vishal-s-sollapure-0bb4b2384">LinkedIn</a> •
+  <a href="mailto:vishalssollapure@gmail.com">Email</a> •
+  <a href="https://personal-portfolio-taupe-ten.vercel.app/">Portfolio</a>
+</p>
 
 ---
 
 <p align="center">
-  **🚀 Build. Learn. Experiment. Ship.**
+  ### 🚀 Build. Learn. Experiment. Ship.
+  ⭐ Thanks for visiting my profile!
 </p>
