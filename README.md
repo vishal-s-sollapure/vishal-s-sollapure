@@ -2,14 +2,16 @@
 
 ### 🎓 B.E. CSE (AI & ML) | 🤖 AI / GenAI Developer | 💻 Software Developer
 
-Passionate about building AI-powered applications using Generative AI, Computer Vision, RAG, and Full-Stack technologies.
+Passionate about building practical AI-powered applications using Generative AI, Computer Vision, RAG, and Full-Stack technologies.
 
 ---
+
 ## 🔥 GitHub Streak Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=vishal-s-sollapure&theme=dark&hide_border=true&ring=A970FF&fire=A970FF&currStreakLabel=A970FF&sideLabels=FFFFFF&dates=AAAAAA" width="70%" alt="GitHub Streak Stats"/>
 </p>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -32,7 +34,8 @@ Passionate about building AI-powered applications using Generative AI, Computer 
 ### ☁️ Deployment & Developer Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,render,streamlit,githubactions,postman&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=vercel,render,githubactions,postman&perline=6"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
 ---
@@ -57,15 +60,15 @@ Aspiring **AI / GenAI Engineer**, focused on building, deploying, and scaling im
 
 <p align="center">
   <a href="https://github.com/vishal-s-sollapure">
-    <img src="https://skillicons.dev/icons?i=github" width="45"/>
+    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/vishal-s-sollapure-0bb4b2384">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:vishalssollapure@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email"/>
   </a>
 </p>
 
@@ -78,7 +81,8 @@ Aspiring **AI / GenAI Engineer**, focused on building, deploying, and scaling im
 
 ---
 
+<h3 align="center">🚀 Build. Learn. Experiment. Ship.</h3>
+
 <p align="center">
-  ### 🚀 Build. Learn. Experiment. Ship.
   ⭐ Thanks for visiting my profile!
 </p>
