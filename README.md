@@ -9,7 +9,7 @@ Passionate about building practical AI-powered applications using Generative AI,
 ## 🔥 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vishal-s-sollapure&theme=dark&hide_border=true&ring=A970FF&fire=A970FF&currStreakLabel=A970FF&sideLabels=FFFFFF&dates=AAAAAA" width="50%" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=vishal-s-sollapure&theme=dark&hide_border=true&ring=A970FF&fire=A970FF&currStreakLabel=A970FF&sideLabels=FFFFFF&dates=AAAAAA" width="55%" alt="GitHub Streak Stats"/>
 </p>
 
 ---
