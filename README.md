@@ -34,7 +34,7 @@ Passionate about building practical AI-powered applications using Generative AI,
 ### ☁️ Deployment & Developer Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,render,postman&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=vercel,render,githubactions,postman&perline=6"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
